@@ -1,0 +1,4 @@
+sxhkd &
+exec bspwm
+pulseaudio
+

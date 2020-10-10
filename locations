@@ -6,3 +6,5 @@ bspwmrc
 /home/$USER$/.vimrc
 .bashrc
 /home/$USER$/.bashrc
+.xinitrc
+/home/$USER$/.xinitrc
