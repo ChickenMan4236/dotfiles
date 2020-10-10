@@ -4,3 +4,5 @@ bspwmrc
 /home/$USER$/.config/bspwm/bspwmrc
 .vimrc
 /home/$USER$/.vimrc
+.bashrc
+/home/$USER$/.bashrc
