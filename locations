@@ -8,3 +8,5 @@ bspwmrc
 /home/$USER$/.bashrc
 .xinitrc
 /home/$USER$/.xinitrc
+.Xresources
+/home/$USER$/.Xresources

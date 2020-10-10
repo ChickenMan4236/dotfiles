@@ -1,0 +1,43 @@
+! special
+*.foreground:   #8edadb
+URxvt.transparent: true
+URxvt.shading:  30
+*.background:   #3e3e3e
+*.cursorColor:  #8edadb
+
+! black
+*.color0:       #1b1b1b
+*.color8:       #575757
+
+! red
+*.color1:       #a54242
+*.color9:       #cc6666
+
+! green
+*.color2:       #8c9440
+*.color10:      #b5bd68
+
+! yellow
+*.color3:       #de935f
+*.color11:      #f0c674
+
+! blue
+*.color4:       #5f819d
+*.color12:      #81a2be
+
+! magenta
+*.color5:       #85678f
+*.color13:      #b294bb
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #8abeb7
+
+! white
+*.color7:       #707880
+*.color15:      #c5c8c6
+
+!font
+URxvt*font:     xft:monospace:size=14
+URxvt.perl-ext-common:  resize-font
+URxvt.font-size.step: 1
