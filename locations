@@ -1,12 +1,12 @@
 sxhkdrc
 /home/$USER$/.config/sxhkd/sxhkdrc
-bspwmrc
-/home/$USER$/.config/bspwm/bspwmrc
-.vimrc
-/home/$USER$/.vimrc
 .bashrc
 /home/$USER$/.bashrc
 .xinitrc
 /home/$USER$/.xinitrc
 .Xresources
 /home/$USER$/.Xresources
+bspwmrc
+/home/$USER$/.config/bspwm/bspwmrc
+.vimrc
+/home/$USER$/.vimrc
