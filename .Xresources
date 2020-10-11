@@ -30,7 +30,7 @@
 *.color7:       #707880
 *.color15:      #c5c8c6
 
-*.foreground:   #8edadb
+*.foreground:   #aefafb
 *.background:   rgb:1600/2600/3500
 *.cursorColor:  #8edadb
 
