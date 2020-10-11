@@ -10,3 +10,5 @@ bspwmrc
 /home/$USER$/.config/bspwm/bspwmrc
 .vimrc
 /home/$USER$/.vimrc
+picom.conf
+/home/$USER$/.config/picom/picom.conf

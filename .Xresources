@@ -31,12 +31,11 @@
 *.color15:      #c5c8c6
 
 *.foreground:   #8edadb
-*.background:   #3e3e3e
+*.background:   rgba:1600/2600/3500/E000
 *.cursorColor:  #8edadb
 
-URxvt*font:     xft:monospace:size=14
+URxvt.depth: 32
+URxvt.font:     xft:monospace:size=14
 URxvt.perl-ext-common:  resize-font
 URxvt.font-size.step: 1
-URxvt.transparent: true
 URxvt.scrollBar: false
-URxvt.shading:  30
