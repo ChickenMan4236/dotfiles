@@ -15,4 +15,5 @@ xrandr --auto --output HDMI-1 --mode 1920x1080 --right-of DVI-I-1
 setxkbmap pl
 feh --bg-center ~/.config/wallpaper/wallpaper.jpg
 xrdb ~/.Xresources
-picom --config ~/.config/picom/picom.conf
+(&>/dev/null polybar example &)
+(&>/dev/null picom --config ~/.config/picom/picom.conf &)
