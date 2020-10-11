@@ -1,10 +1,3 @@
-! special
-*.foreground:   #8edadb
-URxvt.transparent: true
-URxvt.shading:  30
-*.background:   #3e3e3e
-*.cursorColor:  #8edadb
-
 ! black
 *.color0:       #1b1b1b
 *.color8:       #575757
@@ -37,7 +30,13 @@ URxvt.shading:  30
 *.color7:       #707880
 *.color15:      #c5c8c6
 
-!font
+*.foreground:   #8edadb
+*.background:   #3e3e3e
+*.cursorColor:  #8edadb
+
 URxvt*font:     xft:monospace:size=14
 URxvt.perl-ext-common:  resize-font
 URxvt.font-size.step: 1
+URxvt.transparent: true
+URxvt.scrollBar: false
+URxvt.shading:  30
