@@ -22,4 +22,5 @@ setxkbmap pl
 feh --bg-center ~/.config/wallpaper/wallpaper.jpg
 xrdb ~/.Xresources
 (&>/dev/null polybar example &)
+bspc config -m DVI-I-1 top_padding 27
 (&>/dev/null picom --config ~/.config/picom/picom.conf &)
