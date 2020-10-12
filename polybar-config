@@ -36,7 +36,7 @@ padding-right = 5
 
 wm-restack = bspwm
 
-bottom = false 
+bottom = true 
 
 background = ${colors.background}
 foreground = ${colors.foreground}
