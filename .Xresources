@@ -31,7 +31,7 @@
 *.color15:      #c5c8c6
 
 *.foreground:   #aefafb
-*.background:   rgb:1600/2600/3500
+*.background:   #1c3344 
 *.cursorColor:  #8edadb
 
 URxvt.depth:    32
@@ -39,3 +39,4 @@ URxvt.font:     xft:monospace:size=10
 URxvt.perl-ext-common:  resize-font
 URxvt.font-size.step: 1
 URxvt.scrollBar: false
+URxvt.internalBorder: 60

@@ -4,7 +4,10 @@
 
 # terminal emulator
 super + Return
-	urxvt
+  bspc rule -a URxvt state=floating; urxvt
+
+super + shift + Return
+  bspc rule -a URxvt state=tiled; urxvt
 
 # program launcher
 super + @space

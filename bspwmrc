@@ -17,10 +17,13 @@ bspc config -m HDMI-1 right_padding 38
 bspc config -m HDMI-1 top_padding 23
 bspc config -m HDMI-1 bottom_padding 23
 
+bspc rule -a URxvt state=floating
+
 xrandr --auto --output HDMI-1 --mode 1920x1080 --right-of DVI-I-1 
 setxkbmap pl
-feh --bg-center ~/.config/wallpaper/wallpaper.jpg
+feh --bg-tile ~/.config/wallpaper/wallpaper.jpg
 xrdb ~/.Xresources
-(&>/dev/null polybar example &)
+polybar example &
 bspc config -m DVI-I-1 top_padding 27
-(&>/dev/null picom --config ~/.config/picom/picom.conf &)
+picom --config ~/.config/picom/picom.conf &
+urxvt &
