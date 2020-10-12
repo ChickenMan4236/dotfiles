@@ -34,8 +34,8 @@
 *.background:   rgb:1600/2600/3500
 *.cursorColor:  #8edadb
 
-URxvt.depth: 32
-URxvt.font:     xft:monospace:size=14
+URxvt.depth:    32
+URxvt.font:     xft:monospace:size=10
 URxvt.perl-ext-common:  resize-font
 URxvt.font-size.step: 1
 URxvt.scrollBar: false
