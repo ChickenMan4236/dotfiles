@@ -26,4 +26,4 @@ xrdb ~/.Xresources
 polybar example &
 bspc config -m DVI-I-1 top_padding 27
 picom --config ~/.config/picom/picom.conf &
-urxvt &
+cd ~/.config/scripts/ && ./welcome.sh &

@@ -14,3 +14,5 @@ picom.conf
 /home/$USER$/.config/picom/picom.conf
 polybar-config
 /home/$USER$/.config/polybar/config
+welcome.sh
+/home/$USER$/.config/scripts/welcome.sh
