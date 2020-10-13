@@ -11,7 +11,7 @@ super + shift + Return
 
 # program launcher
 super + @space
-	dmenu_run
+  dmenu_run -l 100 -m DVI-I-1 -nf "#3c6374" -nb "#12222d" -sb "#0a81af"
 
 # make sxhkd reload its configuration files:
 super + Escape

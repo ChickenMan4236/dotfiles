@@ -47,9 +47,9 @@ font-1 = xft:monospace:size=9
 module-margin-left = 4
 module-margin-right = 4
 
-modules-left = bspwm i3
-modules-center = mpd
-modules-right = pulseaudio memory cpu eth date
+modules-left = 
+modules-center = date 
+modules-right =
 
 cursor-click = pointer
 
