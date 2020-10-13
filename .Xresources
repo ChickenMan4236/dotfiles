@@ -36,6 +36,7 @@
 
 URxvt.depth:    32
 URxvt.font:     xft:monospace:size=10
+URxvt.vis-font:     xft:monospace:size=1
 URxvt.perl-ext-common:  resize-font
 URxvt.font-size.step: 1
 URxvt.scrollBar: false

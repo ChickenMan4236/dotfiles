@@ -16,3 +16,11 @@ polybar-config
 /home/$USER$/.config/polybar/config
 welcome.sh
 /home/$USER$/.config/scripts/welcome.sh
+excludeShadowFromTiledWindows.sh
+/home/$USER$/.config/scripts/excludeShadowFromTiledWindows.sh
+setupWorkspace.sh
+/home/$USER$/.config/scripts/setupWorkspace.sh
+visConfig
+/home/$USER$/.config/vis/config
+visColors
+/home/$USER$/.config/vis/colors/my

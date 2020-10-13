@@ -37,3 +37,8 @@ sleep 2
 (&>/dev/null urxvt -e "sh" -c "cd ~;screenfetch -w; bash" &)
 
 sleep 1
+
+cd ~/.config/scripts/
+./setupWorkspace.sh
+
+sleep 1
