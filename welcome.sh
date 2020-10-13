@@ -34,6 +34,6 @@ write
 
 sleep 2
 
-(&>/dev/null urxvt -e "sh" -c "screenfetch -w; bash" &)
+(&>/dev/null urxvt -e "sh" -c "cd ~;screenfetch -w; bash" &)
 
 sleep 1
